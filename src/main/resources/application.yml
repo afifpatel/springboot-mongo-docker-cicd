@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: apfreelanceworlddocker
+      port: 27017
